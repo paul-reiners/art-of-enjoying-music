@@ -6,3 +6,5 @@ The tones are the result of vibration.
 Longer and looser makes a tone lower.  Tighter and tinier makes it high-tonier.
 4. What do we actually hear when we are listening to music?</br>
 It is vibrating air that we actually hear when we are listening to music.
+5. How can vibrations be amplified?</br>
+Air vibrations can be amplified by resonators or by electricity (as proved by radio).
