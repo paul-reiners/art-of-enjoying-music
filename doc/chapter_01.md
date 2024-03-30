@@ -8,3 +8,5 @@ Longer and looser makes a tone lower.  Tighter and tinier makes it high-tonier.
 It is vibrating air that we actually hear when we are listening to music.
 5. How can vibrations be amplified?</br>
 Air vibrations can be amplified by resonators or by electricity (as proved by radio).
+6. What is the difference in cause between a musical tone and a noise?</br>
+Regular vibration produces a musical tone.  Irregular vibration causes a musical noise.
